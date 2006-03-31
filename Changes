@@ -1,0 +1,6 @@
+Revision history for Perl extension Kwiki::DisableWikiNames.
+
+0.01  Fri Mar 31 10:13:30 2006
+	- original version; created by h2xs 1.23 with options
+		-AX Kwiki::DisableWikiNames
+

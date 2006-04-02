@@ -1,4 +1,4 @@
-Kwiki-DisableWikiNames version 0.01
+Kwiki-DisableWikiNames version 0.02
 ===================================
 
 INSTALLATION
@@ -9,6 +9,8 @@ To install this module type the following:
    make
    make test
    make install
+   cd /path/to/kwiki
+   kwiki -add Kwiki::DisableWikiNames
 
 DEPENDENCIES
 

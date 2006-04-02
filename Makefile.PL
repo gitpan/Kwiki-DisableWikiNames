@@ -1,7 +1,5 @@
 use 5.008005;
 use ExtUtils::MakeMaker;
-# See lib/ExtUtils/MakeMaker.pm for details of how to influence
-# the contents of the Makefile that is written.
 WriteMakefile(
     NAME              => 'Kwiki::DisableWikiNames',
     VERSION_FROM      => 'lib/Kwiki/DisableWikiNames.pm', # finds $VERSION
